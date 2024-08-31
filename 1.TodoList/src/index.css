@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Pretendard';
+    src: url("./fonts/PretendardVariable.ttf");
+}
+body{font-family: Pretendard , serif}
+.no-scrollbar::-webkit-scrollbar{display: none}

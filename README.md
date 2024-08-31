@@ -13,7 +13,7 @@
 
 - learned to react-icons, useMemo, useState Previous Data
 - Tailwind CSS install and [study](https://tailwindcss.com/docs/guides/create-react-app)
-- Creating a todolist(tasklist) with React
+- Creating a todo List(Task List) with React
 
 ## 📕 Project
 
