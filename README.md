@@ -21,9 +21,12 @@
 
 ## 📕 Project
 
-## 1. [Todo List](https://react-study-project-1.vercel.app/) (2024-08-31)
+## 1. Todo List (2024-08-31)
 
 ![Project 1](./images/project_1.png)
+
+### Demo
+https://react-study-project-1.vercel.app/
 
 ### Features
 - task add, complete toggle, delete, tab menu
