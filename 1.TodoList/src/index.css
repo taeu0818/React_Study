@@ -6,4 +6,3 @@
     src: url("./fonts/PretendardVariable.ttf");
 }
 body{font-family: Pretendard , serif}
-.no-scrollbar::-webkit-scrollbar{display: none}
