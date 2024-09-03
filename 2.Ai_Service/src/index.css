@@ -2,9 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 @font-face {
-    src: url("./fonts/PretendardVariable.ttf");
     font-family: Pretendard;
-    font-weight: normal;
-}
+    src: url("./fonts/Pretendard.ttf");
 
+}
 body{font-family: Pretendard , serif;letter-spacing: -0.025rem}
