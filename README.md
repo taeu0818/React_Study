@@ -25,11 +25,18 @@
 - Project 2 Planning
 - Studying Ai Service related to Project 2
 
-### 2024-09-02 (Mon)
+### 2024-09-03 (Tue)
 
 - Issue openai APIkey
 - Change chatgpt ai to ollama (free)
 - ollama Ai test
+
+### 2024-09-04 (Wed)
+
+- Creating AI that does not stream in real time
+- Next.js Study
+- Express a little study
+
 
 ## 📕 React Project
 

@@ -4,9 +4,12 @@ import {useState, useEffect} from "react";
 function App() {
     const [data,setData] = useState('');
     useEffect( () => {
-        const handleStreamData = chunk => setData(prevData => prevData + chunk);
-        const getData = async() => await getMsg('안녕?', handleStreamData);
-        getData();
+        const getData = async() => await getMsg('123');
+        console.log(getData());
+
+        // const handleStreamData = chunk => setData(prevData => prevData + chunk);
+        // const getData = async() => await getMsg('안녕?', handleStreamData);
+        // getData();
     }, []);
     return (
     <div className="App">

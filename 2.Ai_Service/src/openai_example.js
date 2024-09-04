@@ -5,12 +5,12 @@ const openai = new OpenAI({
     apiKey: 'ollama',
     dangerouslyAllowBrowser: true
 });
-const getMsg = (msg , onData) =>
+const getMsg = (msg /*, onData*/) =>
     openai.chat.completions.create({
         model: 'llama3.1',
-        stream: true,
+        // stream: true,
         messages: [{role: 'user', content: msg}],
-    }).then(res => {
+    })/*.then(res => {
         console.log(res.controller);
         const reader = res.body.getReader();
         const decoder = new TextDecoder("utf-8");
@@ -44,6 +44,6 @@ const getMsg = (msg , onData) =>
         }
         read();
 
-    });
+    });*/
 
 module.exports = getMsg;
