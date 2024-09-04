@@ -25,6 +25,12 @@
 - Project 2 Planning
 - Studying Ai Service related to Project 2
 
+### 2024-09-02 (Mon)
+
+- Issue openai APIkey
+- Change chatgpt ai to ollama (free)
+- ollama Ai test
+
 ## 📕 React Project
 
 ## 1. Todo List (2024-08-31)
