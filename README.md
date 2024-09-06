@@ -2,6 +2,10 @@
 
 > Date Studied : 2024-08-30 (Fri) ~ ???
 
+## ❗Issue
+> ### Stop Study [2024-09-05 ~ ???]
+> - Temporarily stopping study due to other projects in progress
+
 ## 📅 Study Journal
 
 ### 2024-08-30 (Fri)
@@ -36,6 +40,7 @@
 - Creating AI that does not stream in real time
 - Next.js Study
 - Express a little study
+
 
 
 ## 📕 React Project
